@@ -282,7 +282,7 @@ export default function Page() {
               transition={{ duration: 0.7, ease: "easeOut" }}
             >
               <img
-                src="https://www.dropbox.com/scl/fi/8i84qpsl25hamkwpaotua/Content-Agency-Logo.png?rlkey=fyt2aia3zippo79jor4z4bufg&st=ap4aghjx&dl=1"
+                src="https://drive.google.com/file/d/1Oi_k1GHxhPlUwOPGjcBbddBnPI8Tx4Hz/view?usp=sharing"
                 alt="Content Agency Logo"
                 className="w-full h-auto object-contain"
                 style={{ filter: 'invert(1)' }}
@@ -364,15 +364,15 @@ export default function Page() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
               {
-                url: "https://www.dropbox.com/scl/fi/46kgkwf08xlw5geu61gu1/Video-16.01.26-00-11-49.mp4?rlkey=xj5e3obb1lifgnoxvhwdol2fw&st=dt37fmpk&dl=1",
+                url: "https://www.youtube.com/shorts/Y-yH5LqUUjw",
                 title: "Golden Buns – Instagram Content"
               },
               {
-                url: "https://www.dropbox.com/scl/fi/8o6phipqotfaa2gyyl39i/Video-16.01.26-00-11-49-1.mp4?rlkey=04xbftl408zda4cwn9jppu1h5&st=dbl760fr&dl=1",
+                url: "https://www.youtube.com/shorts/pTmu39tVOhY",
                 title: "Churros Bremen by Bellissima – Instagram Content"
               },
               {
-                url: "https://www.dropbox.com/scl/fi/stf2l88egbtqz1ntbqk7y/Video-05.10.25-14-35-05.mp4?rlkey=e3pykwpq016k9b0y6ygkkw1b3&st=f0uzmtv1&dl=1",
+                url: "https://www.youtube.com/shorts/GtwSPCRcU7U",
                 title: "Hundetrainingszentrum Bremen – Professionelle Instagram Produktion"
               }
             ].map((video, i) => (
