@@ -364,15 +364,15 @@ export default function Page() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
               {
-                url: "https://www.youtube.com/shorts/Y-yH5LqUUjw",
+                url: "/video3.mp4",
                 title: "Golden Buns – Instagram Content"
               },
               {
-                url: "https://www.youtube.com/shorts/pTmu39tVOhY",
+                url: "/video2.mp4",
                 title: "Churros Bremen by Bellissima – Instagram Content"
               },
               {
-                url: "https://www.youtube.com/shorts/GtwSPCRcU7U",
+                url: "/video1.mp4",
                 title: "Hundetrainingszentrum Bremen – Professionelle Instagram Produktion"
               }
             ].map((video, i) => (
