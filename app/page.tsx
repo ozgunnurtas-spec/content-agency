@@ -282,7 +282,7 @@ export default function Page() {
               transition={{ duration: 0.7, ease: "easeOut" }}
             >
               <img
-                src="https://drive.google.com/file/d/1Oi_k1GHxhPlUwOPGjcBbddBnPI8Tx4Hz/view?usp=sharing"
+                src="/logo.png"
                 alt="Content Agency Logo"
                 className="w-full h-auto object-contain"
                 style={{ filter: 'invert(1)' }}
